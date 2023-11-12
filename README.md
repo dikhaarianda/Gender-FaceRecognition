@@ -1,8 +1,21 @@
 # Face Recognition - Gender Classification
-*architecture: **Pytorch VGG-16***
+This repository is used to fulfill the first assignment - Face Recognition from Indonesia AI Bootcamp
 
+## Repository Structure
+🔗 Result Team:
+- [Slide](https://github.com/dikhaarianda/Gender-FaceRecognition/blob/master/ResultTeam/Slide%20Presentation_CV-1.pdf)
+- [GoogleLeNet](https://github.com/dikhaarianda/Gender-FaceRecognition/blob/master/ResultTeam/Model-GoogleLeNet.ipynb)
+- [ResNet](https://github.com/dikhaarianda/Gender-FaceRecognition/blob/master/ResultTeam/Model-ResNet.ipynb)
+- [VGG](https://github.com/dikhaarianda/Gender-FaceRecognition/blob/master/ResultTeam/Model-VGG.ipynb)
 
-## Report:
+🔗 Self Experiment:
+- [Data-Preparation](https://github.com/dikhaarianda/Gender-FaceRecognition/blob/master/DataPreparation.ipynb)
+- [Model-Experiment](https://github.com/dikhaarianda/Gender-FaceRecognition/blob/master/Model_Experiment.ipynb)
+- [Model-Fix](https://github.com/dikhaarianda/Gender-FaceRecognition/blob/master/Model_Fix.ipynb)
+
+## Report Self-Experiment
+*Architecture: **Pytorch VGG-16***
+
 - Dataset Count:
 
     ![Dataset](https://github.com/dikhaarianda/FaceRecognition-VGG16/blob/master/assets/DatsetCount.png)
@@ -44,5 +57,5 @@
         Male: 195 | Female: 295
     ```
 
-## Conclusion:
+### Conclusion
 This project demonstrates the effectiveness of the PyTorch VGG-16 architecture in gender classification, even in the presence of an imbalanced dataset. Further improvements and fine-tuning can be explored for enhanced performance.
